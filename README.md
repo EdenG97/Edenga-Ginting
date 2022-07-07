@@ -9,3 +9,8 @@
 
 # Udemy Certifications
 - React - The Complete Guide (incl Hooks, React Router, Redux) -- *Credential ID: UC-77f64ba1-b97e-4327-a66c-ea5ad1b008c5*
+- Next.js & React - The Complete Guide (incl. Two Paths!) -- *Credential ID: UC-77f64ba1-b97e-4327-a66c-ea5ad1b008c5*
+- Git & GitHub - The Practical Guide -- *Credential ID: UC-e1db54e2-cf57-4d54-b60c-621c00ff768b*
+
+#Contact 
+- https://www.linkedin.com/in/edenga-ginting/
