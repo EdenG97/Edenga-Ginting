@@ -1,4 +1,4 @@
-# Edenga-Ginting
+# About Me
 
 - My full name is Edenga Josua Ginting
 - Graduated on August 2019 from Institut Teknologi Harapan Bangsa, Bandung
