@@ -8,5 +8,5 @@
 - Worked as an IT Support on RS Dr J. H. Awaloei, Manado
 
 # Udemy Certifications
-- Credential ID (UC-77f64ba1-b97e-4327-a66c-ea5ad1b008c5)
-*React - The Complete Guide (incl Hooks, React Router, Redux)
+- React - The Complete Guide (incl Hooks, React Router, Redux)
+## UC-77f64ba1-b97e-4327-a66c-ea5ad1b008c5
